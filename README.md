@@ -6,7 +6,7 @@
 
 - 💞️ I'm looking to collaborate on exciting data science and machine learning projects that solve real-world problems.
 
-- 📫 How to reach me: You can find me on LinkedIn (Jonas [Given] Hlatsjwayo) or email me at jonasgiven18@gmail.com.
+- 📫 How to reach me: You can find me on LinkedIn (Jonas [Given] Hlatsjwayo - https://www.linkedin.com/in/jonas-hlatsjwayo-28010517a/) or email me at jonasgiven18@gmail.com.
 
 - 😄 Pronouns: He/Him
 
