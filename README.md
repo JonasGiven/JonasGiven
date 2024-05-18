@@ -1,3 +1,5 @@
+![IMG_0104](https://github.com/JonasGiven/HR-data-attendance-analysis-for-Atliq-technologies/assets/169194581/bafdc957-0c64-4057-aeb9-245c7ff1a82e)
+
 ### 👋 Hi, I'm Jonas Given
 
 I'm from Johannesburg, South Africa.<br/>
