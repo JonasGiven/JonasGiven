@@ -11,5 +11,14 @@
  
 - As a hobby I [Blog](https://hlatsjwayo.wordpress.com/) <br/>
 
+## Technical skills 
+* Python
+* PowerBI
+* MySQL
+* SQL
+* Advanced Excell
+* Notion
+* Slack
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasgiven&show_icons=true&theme=radical)
 
