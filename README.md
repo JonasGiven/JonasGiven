@@ -9,6 +9,7 @@
 - 📫 How to reach me: You can find me on LinkedIn or email me links in my bio.
 
 - 😄 Pronouns: He/Him
+- As a hobby I [Blog](https://hlatsjwayo.wordpress.com/)
 
   
 
