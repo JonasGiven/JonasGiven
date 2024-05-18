@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Jonas Given
 
-👀 I'm interested in data science, machine learning, and artificial intelligence. <br/>
+- 👀 I'm interested in data science, machine learning, and artificial intelligence. <br/>
 
-Studied Bachelor of science in mathematics and physics at the university of Witwatersrand, Johannesburg.<br/>
+- Studied Bachelor of science in mathematics and physics at the university of Witwatersrand, Johannesburg.<br/>
 
 🌱 I'm currently learning data science from [Digital Africa/Talent4startups](https://digital-africa.co/en/programmes/talent-4-startups/) <br/>
 
