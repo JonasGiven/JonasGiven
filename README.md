@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jonasgiven18@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Av8xgeKkyrP5nEXTfrIy2JBXjEL1?e=01jDI1](https://1drv.ms/b/s!Av8xgeKkyrP5nEXTfrIy2JBXjEL1?e=01jDI1)
+- 📄 Know about my experiences [http://bit.ly/3ytBqkZ](http://bit.ly/3ytBqkZ)
 
 - ⚡ Fun fact **I like sci-fi movies with futuristic tech.**
 
