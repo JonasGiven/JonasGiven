@@ -1,11 +1,7 @@
-![IMG_0104](https://github.com/JonasGiven/HR-data-attendance-analysis-for-Atliq-technologies/assets/169194581/bafdc957-0c64-4057-aeb9-245c7ff1a82e)
-
 <h1 align="center">Hi 👋, I'm Jonas Given</h1>
 <h3 align="center">I'm from Johannesburg, South Africa. Studied Bachelor of science in mathematics and physics at the university of Witwatersrand, Johannesburg.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasgiven&label=Profile%20views&color=0e75b6&style=flat" alt="jonasgiven" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/sitoe6jonas" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/sitoe6jonas?logo=twitter&style=for-the-badge" alt="https://x.com/sitoe6jonas" /></a> </p>
 
 - 🌱 I’m currently learning **data science from Digital Africa/Talent4startups.**
 
@@ -27,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/sitoe6jonas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sitoe6jonas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jonas-hlatsjwayo-28010517a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonas-hlatsjwayo-28010517a/" height="30" width="40" /></a>
 <a href="/https://hlatsjwayo.wordpress.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hlatsjwayo.wordpress.com/feed/" height="30" width="40" /></a>
 </p>
