@@ -1,24 +1,38 @@
 ![IMG_0104](https://github.com/JonasGiven/HR-data-attendance-analysis-for-Atliq-technologies/assets/169194581/bafdc957-0c64-4057-aeb9-245c7ff1a82e)
 
-### 👋 Hi, I'm Jonas Given
+<h1 align="center">Hi 👋, I'm Jonas Given</h1>
+<h3 align="center">I'm from Johannesburg, South Africa. Studied Bachelor of science in mathematics and physics at the university of Witwatersrand, Johannesburg.</h3>
 
-I'm from Johannesburg, South Africa.<br/>
-Studied Bachelor of science in mathematics and physics at the university of Witwatersrand, Johannesburg.<br/>
-I'm currently learning data analysis from [Digital Africa/Talent4startups](https://digital-africa.co/en/programmes/talent-4-startups/) <br/>
-I'm interested in data analysis, machine learning, and artificial intelligence. <br/>
-I'm looking to collaborate on exciting data analysis and machine learning projects that solve real-world problems for businesses. <br/>
-How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/jonas-hlatsjwayo-28010517a/) , [email](jonasgiven18@gmail.com) and [X formerly known as twitter](https://x.com/home). <br/>
-Pronouns: He/Him <br/>
-As a hobby I [Blog](https://hlatsjwayo.wordpress.com/) <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasgiven&label=Profile%20views&color=0e75b6&style=flat" alt="jonasgiven" /> </p>
 
-## Technical skills 
-* Python
-* PowerBI
-* MySQL
-* SQL
-* Advanced Excel
-* Google colab
-* Slack
+<p align="left"> <a href="https://twitter.com/https://x.com/sitoe6jonas" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/sitoe6jonas?logo=twitter&style=for-the-badge" alt="https://x.com/sitoe6jonas" /></a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasgiven&show_icons=true&theme=radical)
+- 🌱 I’m currently learning **data science from Digital Africa/Talent4startups.**
 
+- 👨‍💻 All of my projects are available at [https://github.com/JonasGiven?tab=repositories](https://github.com/JonasGiven?tab=repositories)
+
+- 📝 I regularly write articles on [https://hlatsjwayo.wordpress.com/](https://hlatsjwayo.wordpress.com/)
+
+- 💬 Ask me about **MySQL, PowerBI, Excel, SQL**
+
+- 📫 How to reach me **jonasgiven18@gmail.com**
+
+- 📄 Know about my experiences [https://1drv.ms/b/s!Av8xgeKkyrP5nEXTfrIy2JBXjEL1?e=01jDI1](https://1drv.ms/b/s!Av8xgeKkyrP5nEXTfrIy2JBXjEL1?e=01jDI1)
+
+- ⚡ Fun fact **I like sci-fi movies with futuristic tech.**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/sitoe6jonas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sitoe6jonas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonas-hlatsjwayo-28010517a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonas-hlatsjwayo-28010517a/" height="30" width="40" /></a>
+<a href="/https://hlatsjwayo.wordpress.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hlatsjwayo.wordpress.com/feed/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonasgiven&show_icons=true&locale=en" alt="jonasgiven" /></p>
