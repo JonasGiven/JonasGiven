@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasgiven&label=Profile%20views&color=0e75b6&style=flat" alt="jonasgiven" /> </p>
 
-- 🌱 I’m currently learning **data science from Digital Africa/Talent4startups.**
+- 🌱 I completed a course in **data analysis from Digital Africa/Talent4startups.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JonasGiven?tab=repositories](https://github.com/JonasGiven?tab=repositories)
 
 - 📝 I regularly write articles on [https://hlatsjwayo.wordpress.com/](https://hlatsjwayo.wordpress.com/)
 
-- 💬 Ask me about **MySQL, PowerBI, Excel, SQL**
+- 💬 Ask me about **MySQL, PowerBI, Excel, SQL, Pandas, scikit learn, azure machine learning, python for data analysis, data cleaning and preprocessing, data visualisation**
 
 - 📫 How to reach me **jonasgiven18@gmail.com**
 
