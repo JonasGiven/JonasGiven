@@ -1,7 +1,7 @@
 ![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/JonasGiven/HR-data-attendance-analysis-for-Atliq-technologies/assets/169194581/7bf4f627-dd57-45c7-b15f-9a9c7365b45b)
 
 # Hi 👋, I'm Jonas Given
-### Data Analyst | Physics Enthusiast | Mathematics Expert
+### Data Analyst | Physics| Mathematics
 **From Johannesburg, South Africa | BSc in Mathematics and Physics, University of Witwatersrand**
 
 <p align="left">
